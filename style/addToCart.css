@@ -1,0 +1,17 @@
+#container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    margin-bottom: 10px;
+    background-color: cadetblue;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}

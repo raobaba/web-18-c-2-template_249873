@@ -1,0 +1,40 @@
+#securepay>img{
+    width: 50%;
+    height: 600px;
+
+}
+#securepay>div{
+    width: 50%;
+    height: 600px;
+    background-color: yellow;
+}
+#securepay{
+    display: flex;
+    margin-top: -10px;
+}
+#last>form>input,button{
+  margin-left: 270px;
+  margin-top: 50px;
+}
+hr{
+   border: 1px solid yellow;
+}
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: aqua;
+    margin-left:330px;
+    cursor: pointer;
+} 
+h1{
+    text-align: center;
+}
